@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm a passionate developer focused on building innovative and user-friendly applications.<br><br>    🔭 Currently working on a smart flight planning app and a virtual try-on experience for shoes (3D, AR, and mobile technologies)<br><br>    🧠 Interested in computer vision, 3D rendering, and interactive UX<br><br>    💻 Tech stack: Java, Android, Three.js, REST APIs<br><br>    🌱 Constantly learning and exploring new tools in AR/VR and mobile development<br><br>    💬 Ask me about Android apps, 3D integration, or UI/UX design<br><br>    🚀 Always excited to collaborate on creative, real-world solutions<br><br>Let’s connect and bring ideas to life!
+Hi there! I'm a passionate developer focused on building innovative and user-friendly applications.🔭 Currently working on a smart flight planning app and a virtual try-on experience for shoes (3D, AR, and mobile technologies)   🧠 Interested in computer vision, 3D rendering, and interactive UX 💻 Tech stack: Java, Android, Three.js, REST APIs🌱 Constantly learning and exploring new tools in AR/VR and mobile development 💬 Ask me about Android apps, 3D integration, or UI/UX design🚀 Always excited to collaborate on creative, real-world solutionsLet’s connect and bring ideas to life!
 
 
 # 💻 Tech Stack:
